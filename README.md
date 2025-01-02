@@ -1,11 +1,13 @@
 ## Hi there 👋
 ### My name is Berenis. I am a CS/IMGD undergrad @ WPI.
 My interests:
-- Game Development
+- 👾Game Development
 - Web Development
 - AI/ML
 - Interactive Media
 - Human-Computer Interaction
+
+Other Interests include music, illustration, reading, gaming, and photography.
 <!--
 **a-little-black-cat/a-little-black-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
