@@ -8,7 +8,7 @@ My interests:
 - Interactive Media
 
 
-Other Interests include music, illustration, reading, gaming, and photography.
+Other Interests include music, arts, cross-stitching and bird photography
 <!--
 **a-little-black-cat/a-little-black-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
