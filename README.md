@@ -1,10 +1,10 @@
 ## Hi there 👋
 ### My name is Berenis. I am a CS/IMGD undergrad @ WPI.
 My interests:
-- 👾Game Development
+- Computer Vision
+- AI/ML
 - Human-Computer Interaction
 - Web Development
-- AI/ML
 - Interactive Media
 
 
