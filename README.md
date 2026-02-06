@@ -6,6 +6,7 @@ My interests:
 - Human-Computer Interaction
 - Web Development
 - Interactive Media
+- Game Development
 
 
 Other Interests include music, arts, cross-stitching and bird photography
